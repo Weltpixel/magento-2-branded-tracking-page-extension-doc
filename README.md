@@ -85,7 +85,7 @@ Digital receipts provide a hassle-free way for consumers to keep track of their 
      </div></td>
  </tr>
 </table>
-                      <h2>HOW TO INSTALL THE MAGENTO 2 STORE LOCATOR EXTENSION.</h2>
+                      <h2>HOW TO INSTALL THE MAGENTO 2 CURBSIDE & IN STORE PICKUP EXTENSION.</h2>
 <ul>
   <p>
 Step 1:
