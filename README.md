@@ -62,7 +62,7 @@ If you’re using an omnichannel solution, it’s probably working great at secu
 <h2>How do you get a Branded Tracking Page?</h2>
 <h3>Download the extension here: <a href="https://support.wesupplylabs.com/hc/en-us/articles/360037959632-Magento-2-Extension">Magento 2 Branded Tracking Page</a></h3>
 <p>
-To use the functionality, all you need to do is <a href="https://signup.labs.wesupply.xyz/signup">sign up for a free WeSupply Account</a></h3>sign up for a free WeSupply Account. There’s a 14-day Free Trial, after which you can continue using the Branded Tracking Page by continuing with the Free Plan.
+To use the functionality, all you need to do is <a href="https://signup.labs.wesupply.xyz/signup">sign up for a free WeSupply Account.</a></h3> There’s a 14-day Free Trial, after which you can continue using the Branded Tracking Page by continuing with the Free Plan.
 </p>
 <h2>HOW TO INSTALL THE MAGENTO 2 BRANDED TRACKING PAGE EXTENSION.</h2>
 <ul>
